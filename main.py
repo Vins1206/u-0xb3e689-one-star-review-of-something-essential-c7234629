@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """One-star review of something essential.
 
-Writes a single deadpan one-star review, at most 160 characters, of an
-everyday essential to /output/entry.txt. Pure standard library and fully
+Writes a single deadpan one-star review of gravity, an everyday essential,
+at most 160 characters, to /output/entry.txt. Pure standard library and fully
 deterministic: the same review every run.
 """
 
 import os
 
-REVIEW = "One star. Oxygen is invisible, odourless, and entirely unremarkable, yet I cannot go five minutes without it. A monopoly with no customer service."
+REVIEW = "One star. Gravity drops my phone at least once a day and never says sorry. I would like it to stop touching my things."
 
 OUTPUT_PATH = "/output/entry.txt"
 

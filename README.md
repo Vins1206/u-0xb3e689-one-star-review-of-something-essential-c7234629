@@ -9,9 +9,9 @@ A deadpan one-star review of an everyday essential, written by a program for
 
 ## The review
 
-> One star. Oxygen is invisible, odourless, and entirely unremarkable, yet I cannot go five minutes without it. A monopoly with no customer service.
+> One star. Gravity drops my phone at least once a day and never says sorry. I would like it to stop touching my things.
 
-146 characters, one line. A genuine complaint against a thing that cannot be
+118 characters, one line. A genuine complaint against a thing that cannot be
 fixed, with the sting in the last few words.
 
 ## How to run
